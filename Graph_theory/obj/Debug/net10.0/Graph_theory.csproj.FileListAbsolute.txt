@@ -1,0 +1,14 @@
+C:\Users\ANH\Desktop\Graph_theory\bin\Debug\net10.0\Graph_theory.exe
+C:\Users\ANH\Desktop\Graph_theory\bin\Debug\net10.0\Graph_theory.deps.json
+C:\Users\ANH\Desktop\Graph_theory\bin\Debug\net10.0\Graph_theory.runtimeconfig.json
+C:\Users\ANH\Desktop\Graph_theory\bin\Debug\net10.0\Graph_theory.dll
+C:\Users\ANH\Desktop\Graph_theory\bin\Debug\net10.0\Graph_theory.pdb
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.AssemblyInfoInputs.cache
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.AssemblyInfo.cs
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.csproj.CoreCompileInputs.cache
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.dll
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\refint\Graph_theory.dll
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.pdb
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\Graph_theory.genruntimeconfig.cache
+C:\Users\ANH\Desktop\Graph_theory\obj\Debug\net10.0\ref\Graph_theory.dll
