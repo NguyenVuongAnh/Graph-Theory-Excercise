@@ -55,7 +55,8 @@ namespace Graph_theory
                 string[] value = line.Split(' '); 
                 for(int j = 0; j < value.Length; j++)
                 {
-                    matrix[i, j] = int.Parse(value[j]);
+
+                    matrix[i, j] = value[j] == "Inf" ? int.MaxValue : int.Parse(value[j]);
                     if (matrix[i,j]!= 0)
                     {
                         m++;
